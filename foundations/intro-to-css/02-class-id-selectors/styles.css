@@ -1,0 +1,23 @@
+.class {
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 0, 156);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#id {
+    color: #0000ff;
+    font-size: 32px;
+}
+
+.cooler {
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 0, 156);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+#another {
+    background-color: #00ff15;
+    font-size: 24px;
+    font-weight: bold;
+}
